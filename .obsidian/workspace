@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "2f565e08481fd3de",
+    "type": "split",
+    "children": [
+      {
+        "id": "b40775e5cd0fbb87",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "日记/2021-07-02.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c74803e3c538e9ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c804a1be4d9eaf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27e33a077dc3b204",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0790beb9290a8179",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "585c7c0d4c2f07b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f14bf0b268eccdac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c61cf8d66a0c226",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日记/2021-07-02.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b40775e5cd0fbb87",
+  "lastOpenFiles": [
+    "日记/2021-07-02.md",
+    "其他/单词.md",
+    "未命名.md"
+  ]
+}
