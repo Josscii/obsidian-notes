@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日记/2021-07-02.md",
+            "file": "日记/2021-07-09.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2021-07-02.md",
+                "file": "日记/2021-07-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,11 @@
   },
   "active": "b40775e5cd0fbb87",
   "lastOpenFiles": [
+    "日记/2021-07-09.md",
+    "日记/2021-07-08.md",
+    "日记/2021-07-07.md",
+    "日记/2021-07-06.md",
+    "日记/2021-07-05.md",
     "日记/2021-07-02.md",
     "其他/单词.md",
     "未命名.md"
