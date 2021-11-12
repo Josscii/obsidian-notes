@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日记/2021-10-25.md",
+            "file": "日记/2021-11-10.md",
             "mode": "source"
           }
         }
@@ -48,11 +48,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 212
+    "width": 288,
+    "collapsed": true
   },
   "right": {
     "id": "585c7c0d4c2f07b5",
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2021-10-25.md",
+                "file": "日记/2021-11-10.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -92,19 +94,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297
+    "width": 261
   },
   "active": "eedd1603c887479d",
   "lastOpenFiles": [
-    "日记/2021-10-25.md",
-    "日记/2021-10-20.md",
-    "日记/2021-10-18.md",
+    "日记/2021-11-10.md",
+    "日记/2021-11-04.md",
+    "日记/2021-11-05.md",
+    "日记/2021-11-08.md",
+    "日记/2021-07-02.md",
+    "日记/2021-07-07.md",
+    "日记/2021-07-27.md",
+    "日记/2021-09-15.md",
     "日记/2021-10-11.md",
-    "日记/2021-10-13.md",
-    "日记/2021-10-15.md",
-    "日记/2021-10-10.md",
-    "日记/2021-10-09.md",
-    "日记/2021-10-08.md",
-    "日记/2021-09-30.md"
+    "日记/2021-10-27.md"
   ]
 }
