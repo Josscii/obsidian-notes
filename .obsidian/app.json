@@ -1,5 +1,7 @@
 {
   "foldIndent": false,
   "foldHeading": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "legacyEditor": false,
+  "livePreview": true
 }

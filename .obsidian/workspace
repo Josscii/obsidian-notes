@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "2f565e08481fd3de",
+    "id": "c1c4573ee25cf103",
     "type": "split",
     "children": [
       {
-        "id": "da6bcab8909d7f1e",
+        "id": "ba29b11e2e75b899",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书笔记/李诞的脱口秀工作手册.md",
-            "mode": "source"
+            "file": "中文词汇/互联网.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/李诞的脱口秀工作手册.md",
+                "file": "中文词汇/互联网.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -95,17 +96,17 @@
     "width": 261,
     "collapsed": true
   },
-  "active": "da6bcab8909d7f1e",
+  "active": "ba29b11e2e75b899",
   "lastOpenFiles": [
+    "中文词汇/互联网.md",
+    "中文词汇/为什么选 Vite.md",
+    "中文词汇/写作.md",
     "读书笔记/李诞的脱口秀工作手册.md",
-    "归档/iOS 分享.md",
-    "其他/iOS 分享.md",
-    "其他/单词.md",
-    "日记/2021-11-25.md",
-    "日记/2021-11-10.md",
-    "日记/2021-11-04.md",
-    "日记/2021-11-05.md",
-    "日记/2021-11-08.md",
-    "日记/2021-07-02.md"
+    "读书笔记/文心.md",
+    "日记/2021-07-02.md",
+    "英文词汇/硅谷.md",
+    "技术/react.md",
+    "技术/书签.md",
+    "归档/单词.md"
   ]
 }
